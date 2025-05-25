@@ -1,5 +1,8 @@
+> [!NOTE]
+> Copilot 在线文件(已调用资源包至win12网页版)
 # Chatgh
 由星源开发 · Developed by Starry Source
+由吴懿轩调用  ·  Invoked by user13865363346
 
 ## 介绍
 
@@ -7,4 +10,4 @@
 
 ## 使用
 
-右侧 Description 中的链接。
+转到链接，点击[这里](https://user13865363346.github.io/chatgh/copilot.html)在线使用。
